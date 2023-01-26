@@ -1,1 +1,1 @@
-Khanacademy's tasks
+Khan Academy's assignments
