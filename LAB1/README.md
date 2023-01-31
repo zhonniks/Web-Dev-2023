@@ -1,1 +1,1 @@
-Laboratory work 1
+Laboratory work 1 / Omarova Zhannel
