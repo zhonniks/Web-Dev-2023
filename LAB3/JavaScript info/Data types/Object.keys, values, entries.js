@@ -1,3 +1,4 @@
+// 1
 function sumsal(salaries) {
 
   let sum = 0;
@@ -14,3 +15,7 @@ let salaries = {
 };
 
 alert( sumsal(salaries) ); 
+// 2
+function count(obj) {
+  return Object.keys(obj).length;
+}
