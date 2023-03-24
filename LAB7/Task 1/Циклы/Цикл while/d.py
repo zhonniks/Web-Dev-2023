@@ -1,5 +1,5 @@
 n = int(input())
-k = 2
+k = 1
 while k != n:
     if k > n:
         print("NO")
