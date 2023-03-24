@@ -1,4 +1,4 @@
-Install virtualenv
-Practice creating new environments
-Create empty Django project 
+Install virtualenv <br />
+Practice creating new environments <br />
+Create empty Django project  <br />
 Create SuperUser and login to Admin Site
